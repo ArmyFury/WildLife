@@ -1,0 +1,926 @@
+questions:
+  q1:
+    question: "Which player makes it their goal to go to the Nether in the first session of every season?"
+    options:
+      - "Pearl"
+      - "Etho"
+      - "Martyn"
+      - "Bdubs"
+      - "Scott"
+    answer: "Martyn"
+    difficulty: "Hard"
+
+  q2:
+    question: "Who had a wolf pack in Third Life?"
+    options:
+      - "Pearl"
+      - "Joel"
+      - "Grian"
+      - "Scar"
+    answer: "Joel"
+    difficulty: "Medium"
+
+  q3:
+    question: "Who pranked other players with light grey stained glass in Third Life?"
+    options:
+      - "Bdubs"
+      - "Tango"
+      - "Impulse"
+      - "Etho"
+    answer: "Etho"
+    difficulty: "Medium"
+
+  q4:
+    question: "Who threw a birthday party in Limited Life?"
+    options:
+      - "Jimmy"
+      - "Joel"
+      - "Scott"
+      - "Martyn"
+    answer: "Martyn"
+    difficulty: "Medium"
+
+  q5:
+    question: "Who was Pearl's soulmate in Double Life?"
+    options:
+      - "Cleo"
+      - "Scott"
+      - "Martyn"
+    answer: "Scott"
+    difficulty: "Easy"
+
+  q6:
+    question: "In Third Life, Scar used a clock to convince Bdubs to eliminate Impulse, where did he get it?"
+    options:
+      - "Cleo gave it to him"
+      - "Impulse dropped it"
+      - "He crafted it himself"
+      - "Found it in a chest"
+      - "Bdubs dropped it"
+    answer: "Impulse dropped it"
+    difficulty: "Hard"
+
+  q7:
+    question: "What was the name of Etho and Joel's base in Double Life?"
+    options:
+      - "The Big Barge"
+      - "The Relation-Ship"
+      - "The Pirate-Ship"
+    answer: "The Relation-Ship"
+    difficulty: "Easy"
+
+  q8:
+    question: "Who was the S in Team B.E.S.T.?"
+    options:
+      - "Scott"
+      - "Scar"
+      - "Skizz"
+      - "Sgrian"
+    answer: "Skizz"
+    difficulty: "Medium"
+
+  q9:
+    question: "In Third Life, who declared 'Red winter is coming!' when they turned red?"
+    options:
+      - "Martyn"
+      - "Ren"
+      - "Skizz"
+    answer: "Ren"
+    difficulty: "Easy"
+
+  q10:
+    question: "When did Gem make her first appearance in the Life Series?"
+    options:
+      - "Real Life"
+      - "Secret Life"
+      - "Limited Life"
+      - "Wild Life"
+    answer: "Limited Life"
+    difficulty: "Medium"
+
+  q11:
+    question: "Who said this quote? 'You know, I've always had a thing for red names, bad boys...'"
+    options:
+      - "Ren"
+      - "Scar"
+      - "Lizzie"
+      - "Jimmy"
+      - "Martyn"
+    answer: "Lizzie"
+    difficulty: "Hard"
+
+  q12:
+    question: "Which player lost all of their lives in one session of Third Life?"
+    options:
+      - "Tango"
+      - "Grian"
+      - "Joel"
+      - "BigB"
+      - "Scar"
+    answer: "BigB"
+    difficulty: "Hard"
+
+  q13:
+    question: "Which of these did Mumbo use to get a Boogey kill in Last Life?"
+    options:
+      - "TNT"
+      - "Sword"
+      - "Fire Charge"
+      - "End Crystal"
+      - "Bow and arrow"
+    answer: "End Crystal"
+    difficulty: "Hard"
+
+  q14:
+    question: "What was the name of Pearl's cat in Limited Life?"
+    options:
+      - "Hoppy"
+      - "Froggy"
+      - "Tilly"
+      - "Jumpy"
+    answer: "Froggy"
+    difficulty: "Medium"
+
+  q15:
+    question: "In Limited Life, which player went AFK for a whole session because they were sick?"
+    options:
+      - "Pearl"
+      - "Grian"
+      - "Cleo"
+    answer: "Grian"
+    difficulty: "Easy"
+
+  q16:
+    question: "Who stole Scar's llama 'Pizza' in Third Life?"
+    options:
+      - "Ren"
+      - "Cleo"
+      - "Jimmy"
+      - "Martyn"
+      - "Grian"
+    answer: "Cleo"
+    difficulty: "Hard"
+
+  q17:
+    question: "What was Mumbo's ultimate weapon to stop a red name in Secret Life?"
+    options:
+      - "Act like a red name"
+      - "A giant redstone machine"
+      - "Fence post"
+      - "Run, cry, and scream, in that specific order"
+      - "Ask for mercy"
+    answer: "Fence post"
+    difficulty: "Hard"
+
+  q18:
+    question: "Who was the first ever Boogeyman in the Life Series?"
+    options:
+      - "Etho"
+      - "Bdubs"
+      - "Grian"
+      - "Scott"
+    answer: "Bdubs"
+    difficulty: "Medium"
+
+  q19:
+    question: "In Limited Life, Pearl and BigB decorated their tower with the face of an animal. What was it?"
+    options:
+      - "Sheep"
+      - "Wolves"
+      - "Cats"
+      - "Frogs"
+    answer: "Frogs"
+    difficulty: "Medium"
+
+  q20:
+    question: "In Secret Life, who failed the 100-block-high water bucket clutch?"
+    options:
+      - "Martyn"
+      - "Joel"
+      - "Grian"
+    answer: "Joel"
+    difficulty: "Easy"
+
+  q21:
+    question: "What was the name of Pearl's dog in Double Life?"
+    options:
+      - "Milly"
+      - "Tilly"
+      - "Billy"
+    answer: "Tilly"
+    difficulty: "Easy"
+
+  q22:
+    question: "Who was Grian's 'Secret Soulmate' in Double Life?"
+    options:
+      - "Pearl"
+      - "Ren"
+      - "BigB"
+      - "Etho"
+      - "Martyn"
+    answer: "BigB"
+    difficulty: "Hard"
+
+  q23:
+    question: "What did Ren do with the Wither Star in Last Life?"
+    options:
+      - "Gave it to an ally"
+      - "Forgot it in a random chest"
+      - "Crafted a beacon"
+      - "Hung it up on a wall in his base"
+      - "Used it as a good-luck charm"
+    answer: "Crafted a beacon"
+    difficulty: "Hard"
+
+  q24:
+    question: "What goat horn type did Jimmy and Tango have in Double Life?"
+    options:
+      - "Dream"
+      - "Ponder"
+      - "Seek"
+      - "Sing"
+    answer: "Sing"
+    difficulty: "Medium"
+
+  q25:
+    question: "Why was Bdubs' house upside down in Secret Life?"
+    options:
+      - "He wanted to try something new"
+      - "It was an inside joke with his team"
+      - "It was his task"
+    answer: "It was his task"
+    difficulty: "Easy"
+
+  q26:
+    question: "Which soulmate pair invited a hoard of zombies to the pool party in Double Life?"
+    options:
+      - "Ren and BigB"
+      - "Etho and Joel"
+      - "Scar and Grian"
+      - "Tango and Jimmy"
+      - "Impulse and Bdubs"
+    answer: "Ren and BigB"
+    difficulty: "Hard"
+
+  q27:
+    question: "Who burned down Jimmy and Scott's wall in Third Life?"
+    options:
+      - "Jimmy"
+      - "Joel"
+      - "Tango"
+      - "Martyn"
+      - "Scar"
+    answer: "Joel"
+    difficulty: "Hard"
+
+  q28:
+    question: "What season is Team TIES from?"
+    options:
+      - "Secret Life"
+      - "Last Life"
+      - "Limited Life"
+    answer: "Limited Life"
+    difficulty: "Easy"
+
+  q29:
+    question: "Which player had the fewest deaths in Last Life?"
+    options:
+      - "Martyn"
+      - "Etho"
+      - "BigB"
+      - "Jimmy"
+      - "Scott"
+    answer: "Jimmy"
+    difficulty: "Medium"
+
+  q30:
+    question: "Who was the first to fail a task in Secret Life?"
+    options:
+      - "Skizz"
+      - "Jimmy"
+      - "Mumbo"
+      - "Scar"
+    answer: "Scar"
+    difficulty: "Medium"
+
+  q31:
+    question: "Who won Real Life?"
+    options:
+      - "Cleo"
+      - "Pearl"
+      - "Scott"
+    answer: "Cleo"
+    difficulty: "Easy"
+
+  q32:
+    question: "Which of these was NOT a house of Dogwarts?"
+    options:
+      - "Rose Thorn"
+      - "Cluckle Cluck"
+      - "Crimson Wart"
+      - "Carrotyn"
+      - "Enderport"
+    answer: "Rose Thorn"
+    difficulty: "Hard"
+
+  q33:
+    question: "In Last Life, Lizzie had 3 wolves. Identify one of the two incorrect names here."
+    options:
+      - "Dragon"
+      - "Taxes"
+      - "Gas-Prices"
+      - "Troll"
+      - "Ogre"
+    answer: "Gas-Prices"
+    difficulty: "Hard"
+
+  q34:
+    question: "Which player appeared the tallest in the April Fools episode Real Life?"
+    options:
+      - "Impulse"
+      - "Jimmy"
+      - "Pearl"
+      - "BigB"
+      - "Skizz"
+    answer: "BigB"
+    difficulty: "Hard"
+
+  q35:
+    question: "How did Gem lose her eye in Secret Life?"
+    options:
+      - "She didn't lose an eye"
+      - "A skeleton shot her"
+      - "She lost it to the End Portal"
+      - "There was no lore, she just did it for fun"
+      - "The Boogeyman curse"
+    answer: "She lost it to the End Portal"
+    difficulty: "Hard"
+
+  q36:
+    question: "What was the cause of Lizzie's final death in Secret Life?"
+    options:
+      - "An Enderman"
+      - "Drowning"
+      - "Fell into the void"
+      - "Fall damage"
+    answer: "Fell into the void"
+    difficulty: "Medium"
+
+  q37:
+    question: "How many times did Skizz die in the first episode of Limited Life?"
+    options:
+      - "3 times"
+      - "2 times"
+      - "4 times"
+      - "5 times"
+    answer: "3 times"
+    difficulty: "Medium"
+
+  q38:
+    question: "Why did Cleo turn into a human in Secret Life?"
+    options:
+      - "She survived the Zombie Apocalypse"
+      - "It was for her task"
+      - "She didn't turn into a human"
+      - "Someone subbed in for her"
+      - "She was given a weakness potion and a golden apple"
+    answer: "She survived the Zombie Apocalypse"
+    difficulty: "Hard"
+
+  q39:
+    question: "When Scar turned red in Third Life, he gave Grian two types of flowers as a peace offering. What were these flowers?"
+    options:
+      - "Lilacs and poppies"
+      - "Lillies of the valley and tulips"
+      - "Rose bushes and alliums"
+      - "Dandelions and blue orchids"
+      - "Sunflowers and oxeye daisies"
+    answer: "Lilacs and poppies"
+    difficulty: "Hard"
+
+  q40:
+    question: "Who started the zombie curse in Secret Life session 7?"
+    options:
+      - "Martyn"
+      - "Gem"
+      - "Bdubs"
+      - "Cleo"
+    answer: "Gem"
+    difficulty: "Medium"
+
+  q41:
+    question: "Which of these was NOT a Life Series Season?"
+    options:
+      - "Limited Life"
+      - "Second Life"
+      - "Real Life"
+    answer: "Second Life"
+    difficulty: "Easy"
+
+  q42:
+    question: "Who were the wizards in Last Life?"
+    options:
+      - "Joel and Lizzie"
+      - "Bdubs and Etho"
+      - "Scar and Joel"
+      - "Scott and Pearl"
+    answer: "Scar and Joel"
+    difficulty: "Medium"
+
+  q43:
+    question: "Why did Ren begin wearing a crown in Third Life?"
+    options:
+      - "Got it in a box of cereal"
+      - "Carried over from Hermitcraft"
+      - "To make Dogwarts into a kingdom"
+      - "To show off his MCC win"
+    answer: "To show off his MCC win"
+    difficulty: "Medium"
+
+  q44:
+    question: "BigB has an alternate ego that he uses throughout the series. What is his name?"
+    options:
+      - "Jerry"
+      - "Berry"
+      - "Terry"
+      - "Cherry"
+    answer: "Terry"
+    difficulty: "Medium"
+
+  q45:
+    question: "Which lyrics of 'All Star' by Smash Mouth did Joel NOT say as part of a Secret Life task?"
+    options:
+      - "I ain’t the sharpest tool in the shed"
+      - "I need to get myself away from this place"
+      - "So much to do, so much to see"
+      - "My world’s on fire, how about yours?"
+      - "I could use a little fuel myself"
+    answer: "I need to get myself away from this place"
+    difficulty: "Hard"
+
+  q46:
+    question: "What did Scott and Martyn call themselves in Limited Life?"
+    options:
+      - "Mean Gills"
+      - "H2-bros"
+      - "LGB-SEA"
+    answer: "Mean Gills"
+    difficulty: "Easy"
+
+  q47:
+    question: "What was the name of Scar’s bee in Third Life?"
+    options:
+      - "Mr. Bubbles"
+      - "Mr. Pepperoni"
+      - "Mr. Balloon"
+      - "Mr. Yoda"
+      - "Mr. Bee"
+    answer: "Mr. Bubbles"
+    difficulty: "Hard"
+
+  q48:
+    question: "On what mob did Gem and Pearl ride around killing people together?"
+    options:
+      - "Horse"
+      - "Skeleton horse"
+      - "Pig"
+      - "Camel"
+    answer: "Camel"
+    difficulty: "Medium"
+
+  q49:
+    question: "Which team blew up Bread Bridge in Limited Life?"
+    options:
+      - "TIES"
+      - "Mean Gills"
+      - "Nosey Neighbors"
+      - "Clockers"
+    answer: "TIES"
+    difficulty: "Medium"
+
+  q50:
+    question: "Where was the enchanter located originally in Double Life?"
+    options:
+      - "At spawn"
+      - "Mangrove forest"
+      - "The Ancient City"
+    answer: "The Ancient City"
+    difficulty: "Easy"
+
+  q51:
+    question: "Who killed the Ender Dragon in Secret Life?"
+    options:
+      - "Lizzie"
+      - "Bdubs"
+      - "Impulse"
+      - "Scott"
+    answer: "Bdubs"
+    difficulty: "Medium"
+
+  q52:
+    question: "In Third Life, how did Martyn kill Ren to turn him red?"
+    options:
+      - "With TNT"
+      - "With a sword"
+      - "With an axe"
+      - "Shoved him off a cliff"
+    answer: "With an axe"
+    difficulty: "Medium"
+
+  q53:
+    question: "In every single season he's participated in so far, Mumbo has died right after which player?"
+    options:
+      - "Tango"
+      - "Lizzie"
+      - "Skizz"
+      - "Grian"
+      - "Jimmy"
+    answer: "Jimmy"
+    difficulty: "Hard"
+
+  q54:
+    question: "What happened when you failed a hard task in Secret Life?"
+    options:
+      - "You got killed"
+      - "You lost 10 hearts"
+      - "Nothing happened"
+    answer: "You lost 10 hearts"
+    difficulty: "Easy"
+
+  q55:
+    question: "Which players weren't present for the trapdoor sleepover in Secret Life?"
+    options:
+      - "Martyn and Etho"
+      - "Etho and Tango"
+      - "Martyn and Grian"
+      - "Grian and Etho"
+    answer: "Martyn and Etho"
+    difficulty: "Medium"
+
+  q56:
+    question: "Who opened the End Portal in Secret Life?"
+    options:
+      - "Bdubs"
+      - "Gem"
+      - "Impulse"
+      - "Pearl"
+    answer: "Gem"
+    difficulty: "Medium"
+
+  q57:
+    question: "Who killed Lizzie while she was invisible on a skeleton horse in Secret Life?"
+    options:
+      - "She Killed Herself"
+      - "A Mob Killed her"
+      - "Joel"
+      - "Jimmy"
+      - "Martyn"
+    answer: "Jimmy"
+    difficulty: "Hard"
+
+
+  q58:
+    question: "Which pair was out first in Double Life?"
+    options:
+      - "Joel and Etho"
+      - "Grian and Scar"
+      - "Jimmy and Tango"
+    answer: "Jimmy and Tango"
+    difficulty: "Easy"
+
+  q59:
+    question: "In Third Life, Impulse showed off a trick to find which ore?"
+    options:
+      - "Emeralds"
+      - "Iron"
+      - "Lapis"
+      - "Ancient debris"
+      - "Diamonds"
+    answer: "Diamonds"
+    difficulty: "Hard"
+
+  q60:
+    question: "In Secret Life, who was the only player to show up to Lizzie's slumber party?"
+    options:
+      - "Joel"
+      - "Pearl"
+      - "Cleo"
+      - "Gem"
+      - "No one showed up"
+    answer: "Joel"
+    difficulty: "Hard"
+
+  q61:
+    question: "Who was Etho's favorite son in Limited Life?"
+    options:
+      - "Scar"
+      - "Bdubs"
+      - "He didn't play favorites"
+    answer: "Bdubs"
+    difficulty: "Easy"
+
+  q62:
+    question: "What block was Etho's swamp fortress primarily made out of in Third Life?"
+    options:
+      - "Spruce"
+      - "Dark oak"
+      - "Leaves"
+      - "Wool"
+    answer: "Wool"
+    difficulty: "Medium"
+
+  q63:
+    question: "What did Scar and Pearl use to hurt their soulmates in Double Life?"
+    options:
+      - "Lava"
+      - "Gravel/Sand"
+      - "Powdered Snow"
+      - "Drowning"
+    answer: "Powdered Snow"
+    difficulty: "Medium"
+
+  q64:
+    question: "What was the name of Grian's Magma cube?"
+    options:
+      - "Etho's Dishwasher"
+      - "Etho's Fridge"
+      - "Etho's Oven"
+      - "Etho's Microwave"
+    answer: "Etho's Dishwasher"
+    difficulty: "Medium"
+
+  q65:
+    question: "What did Martyn hand over to Pearl when she asked for Tilly in Limited Life?"
+    options:
+      - "Rotten flesh"
+      - "A cat"
+      - "Her bones"
+      - "Her ashes"
+      - "A new wolf"
+    answer: "Her ashes"
+    difficulty: "Hard"
+
+  q66:
+    question: "Who betrayed Cleo in Last Life?"
+    options:
+      - "Lizzie"
+      - "BigB"
+      - "Ren"
+      - "Scott"
+    answer: "BigB"
+    difficulty: "Medium"
+
+  q67:
+    question: "\"The 3 G's\" are an alliance consisting of Cleo, Scott, and Pearl. In which season did this alliance form?"
+    options:
+      - "Limited Life"
+      - "Last Life"
+      - "Double Life"
+    answer: "Last Life"
+    difficulty: "Easy"
+
+  q68:
+    question: "Which two mobs fought against each other for a task in Secret Life?"
+    options:
+      - "Wither vs Ender Dragon"
+      - "Warden vs Wither"
+      - "Warden vs Guardian"
+    answer: "Warden vs Wither"
+    difficulty: "Easy"
+
+  q69:
+    question: "Out of these Third Life quotes, which one was not said by Scar?"
+    options:
+      - "Skizz I want all your clothes"
+      - "Yes we are pants swappers"
+      - "Everyone always worries about me being pantsless"
+      - "I'm naked and come in peace"
+      - "Grian, watch out, we're taking our pants off"
+    answer: "Everyone always worries about me being pantsless"
+    difficulty: "Hard"
+
+  q70:
+    question: "Who was referred to as the \"Red King\" in Third Life?"
+    options:
+      - "Scar"
+      - "Bdubs"
+      - "Martyn"
+      - "Ren"
+    answer: "Ren"
+    difficulty: "Medium"
+
+  q71:
+    question: "What did Tango name his and Jimmy's Warden in Double Life?"
+    options:
+      - "Rancher's Wrath"
+      - "Rancher's Revenge"
+      - "Rancher's Bodyguard"
+      - "It didn't have a name"
+    answer: "Rancher's Revenge"
+    difficulty: "Easy"
+
+  q72:
+    question: "Who killed Lizzie while she was invisible on a skeleton horse in Secret Life?"
+    options:
+      - "She Killed Herself"
+      - "A Mob Killed her"
+      - "Joel"
+      - "Jimmy"
+      - "Martyn"
+    answer: "Jimmy"
+    difficulty: "Hard"
+
+  q73:
+    question: "What was the name of Scott and Pearl's Base in Last Life?"
+    options:
+      - "Home Sweet Home"
+      - "The Mosscottage"
+      - "The Scottage"
+      - "Scottagecore"
+    answer: "The Scottage"
+    difficulty: "Medium"
+
+  q74:
+    question: "Who said this quote? \"Do me a favor? Die for me.\""
+    options:
+      - "Joel"
+      - "Cleo"
+      - "Scar"
+      - "Ren"
+      - "Pearl"
+    answer: "Cleo"
+    difficulty: "Hard"
+
+  q75:
+    question: "Between Bdubs, Impulse, Tango, and Scott, who was out first during Tag in Secret Life?"
+    options:
+      - "Impulse"
+      - "Bdubs"
+      - "Scott"
+      - "Tango"
+    answer: "Tango"
+    difficulty: "Medium"
+
+  q76:
+    question: "Which one of these hasn't been a feature in Bdubs' skin during the Life Series?"
+    options:
+      - "A golden tooth"
+      - "A black eye"
+      - "A missing tooth"
+      - "A red bandana"
+    answer: "A golden tooth"
+    difficulty: "Medium"
+
+  q77:
+    question: "What item was stolen from the front of BigB's Third Life base?"
+    options:
+      - "Giant cookie"
+      - "Enchanter"
+      - "Doors"
+    answer: "Giant cookie"
+    difficulty: "Easy"
+
+  q78:
+    question: "In Double Life, Tango brought a Warden to the surface to kill two specific players. Who were they?"
+    options:
+      - "Scott and Pearl"
+      - "Scar and Grian"
+      - "Etho and Joel"
+      - "Impulse and Bdubs"
+      - "Martyn and Cleo"
+    answer: "Scar and Grian"
+    difficulty: "Hard"
+
+  q79:
+    question: "If I had a nickle for every life series Jimmy won, how many nickles would I have?"
+    options:
+      - "0 which really means nothing"
+      - "1 which isn't a lot but at least it's something"
+      - "2 which isn't a lot but it's weird it happened twice"
+    answer: "0 which really means nothing"
+    difficulty: "Easy"
+
+  q80:
+    question: "What was the color of Skizz's underwear in Limited Life?"
+    options:
+      - "Red"
+      - "Yellow"
+      - "Green"
+      - "White with hearts"
+    answer: "Red"
+    difficulty: "Medium"
+
+  q81:
+    question: "In what season did Scar take care of Jellie Pandas?"
+    options:
+      - "Double Life"
+      - "Secret Life"
+      - "Last Life"
+    answer: "Double Life"
+    difficulty: "Easy"
+
+  q82:
+    question: "What base did Cleo burn down in Last Life session 5 as an act of revenge?"
+    options:
+      - "Magical Mountain"
+      - "Scottage"
+      - "Snow Fort"
+      - "The Southlands"
+      - "The Fairy Fort"
+    answer: "The Fairy Fort"
+    difficulty: "Hard"
+
+  q83:
+    question: "How was the Double Life Warden killed?"
+    options:
+      - "Fishing rod"
+      - "Bow and arrow"
+      - "Axe"
+      - "Sword"
+    answer: "Fishing rod"
+    difficulty: "Medium"
+
+  q84:
+    question: "Which player started the first ever Raid in the Life Series?"
+    options:
+      - "Impulse"
+      - "Tango"
+      - "Grian"
+      - "Martyn"
+      - "Scar"
+    answer: "Martyn"
+    difficulty: "Hard"
+
+  q85:
+    question: "What was the name of the Ravager that killed Jimmy in Limited Life?"
+    options:
+      - "Bad Boys Big Bad Dog"
+      - "Grian"
+      - "The Curse"
+      - "Boogeyman"
+      - "Sunday Driver"
+    answer: "Grian"
+    difficulty: "Hard"
+
+  q86:
+    question: "Who did Mumbo compete against to have the biggest tower in Secret Life?"
+    options:
+      - "Grian"
+      - "Joel"
+      - "Gem"
+      - "Pearl"
+    answer: "Gem"
+    difficulty: "Medium"
+
+  q87:
+    question: "What was the name of Skizz’s dog in Last Life?"
+    options:
+      - "Kevin Refridgerator Malone Bubbles Mad-Eye Jimmy Dugan"
+      - "Kevin Malone Jimmy Bubbles Refrigerator Mad-Eye Dugan"
+      - "Kevin Mad-Eye Malone Jimmy Refrigerator Bubbles Dugan"
+      - "Kevin Bubbles Malone Refrigerator Jimmy Mad-Eye Dugan"
+      - "I ain’t reading all that"
+    answer: "Kevin Bubbles Malone Refrigerator Jimmy Mad-Eye Dugan"
+    difficulty: "Hard"
+
+  q88:
+    question: "Who burned down Jimmy and Scott’s wall in Third Life?"
+    options:
+      - "Jimmy"
+      - "Joel"
+      - "Tango"
+      - "Martyn"
+      - "Scar"
+    answer: "Joel"
+    difficulty: "Hard"
+
+  q89:
+    question: "What pet did Mumbo try to drown in Secret Life?"
+    options:
+      - "Etho's warden"
+      - "Pearl's dog"
+      - "Bdubs' horse"
+      - "Grian's magma cube"
+      - "Scar's camel"
+    answer: "Scar's camel"
+    difficulty: "Hard"
+
+  q90:
+    question: "What did the Southlanders say when using a spyglass in Last Life?"
+    options:
+      - "Oho!"
+      - "Aha!"
+      - "Hee-hee!"
+    answer: "Aha!"
+    difficulty: "Easy"
+
+  q91:
+    question: "What was the name of Scar's base in Secret Life?"
+    options:
+      - "Saloon Scar"
+      - "Scar's Emporium"
+      - "Scar's Outpost"
+      - "Trader Scar's"
+    answer: "Trader Scar's"
+    difficulty: "Medium"
+
