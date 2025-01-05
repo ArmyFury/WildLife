@@ -1,4 +1,4 @@
-# [WildLife](https://modrinth.com/plugins/wildlife)
+# [WildLife](https://modrinth.com/plugin/wildlife)
 
 # A recreation of the [WildLife](https://www.youtube.com/playlist?list=PLU2851hDb3SHoR1-ABT15P2-LhWEM71MJ) series by [Grian](https://www.youtube.com/@Grian)!
 
