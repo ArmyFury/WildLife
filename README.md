@@ -16,6 +16,8 @@ Note: For now, there is no plan to add superpowers wildcard as it is complex and
 
 /wildcard # Activates a random wildcard
 
+/wildcardstop # Stops any currently running wildcard
+
 /wildcardc <wildcard> # Activates a specific wildcard
 
 /wildlife <start|stop|continue> # Starts, stops or continues the series (health counters)
