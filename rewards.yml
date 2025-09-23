@@ -1,0 +1,168 @@
+# rewards.yml - sample for Trivia Bot rewards
+# The drops rates here are NOT accurate to the series as drop rates are not known
+rewards: 
+  - type: item
+    material: GOLDEN_APPLE
+    chance: 15
+    minAmount: 1
+    maxAmount: 3
+
+  - type: item
+    material: MACE
+    chance: 2
+    minAmount: 1
+    maxAmount: 1
+    # set mace "durability" as raw NBT Damage (example)
+    nbt: "{Damage:485}"
+
+  - type: effect
+    effect: STRENGTH
+    amplifier: 3        # Strength IV => amplifier = 3
+    duration: 1200      # ticks (60s)
+    chance: 6
+
+  - type: effect
+    effect: SATURATION
+    amplifier: 1        # Saturation II => amplifier = 1
+    duration: 200       # ticks (10s)
+    chance: 6
+
+  - type: effect
+    effect: REGENERATION
+    amplifier: 0        # Regeneration I
+    duration: 200       # ticks (10s)
+    chance: 6
+
+  - type: item
+    material: POWERED_RAIL
+    chance: 10
+    minAmount: 4
+    maxAmount: 16
+
+  - type: item
+    material: ENDER_PEARL
+    chance: 10
+    minAmount: 1
+    maxAmount: 8
+
+  - type: item
+    material: TRIDENT
+    chance: 6
+    minAmount: 1
+    maxAmount: 1    
+
+  - type: effect
+    effect: HEALTH_BOOST
+    amplifier: 0        # Health Boost I
+    duration: 2400      # ticks (2 min)
+    chance: 6
+
+  - type: effect
+    effect: FIRE_RESISTANCE
+    amplifier: 1        # Fire Resistance II
+    duration: 3600      # ticks (3 min)
+    chance: 6
+
+  - type: effect
+    effect: SPEED
+    amplifier: 1        # Speed II
+    duration: 1200      # ticks (60s)
+    chance: 8
+
+  - type: item
+    material: GOLDEN_CARROT
+    chance: 8
+    minAmount: 1
+    maxAmount: 4
+
+  - type: effect
+    effect: FIRE_RESISTANCE
+    amplifier: 0        # Fire Resistance I
+    duration: 1200
+    chance: 5
+
+  - type: effect
+    effect: SPEED
+    amplifier: 0        # Speed I
+    duration: 600
+    chance: 5
+
+  - type: effect
+    effect: FAST_DIGGING
+    amplifier: 0        # Haste I (FAST_DIGGING)
+    duration: 1200
+    chance: 5
+
+  - type: item
+    material: WIND_CHARGE
+    chance: 10
+    minAmount: 1
+    maxAmount: 48
+
+  - type: item
+    material: NETHERITE_BOOTS
+    chance: 3
+    minAmount: 1
+    maxAmount: 1
+
+  - type: item
+    material: SCULK_SENSOR
+    chance: 4
+    minAmount: 1
+    maxAmount: 1
+
+  - type: item
+    material: TNT
+    chance: 4
+    minAmount: 1
+    maxAmount: 8
+
+  - type: item
+    material: COBWEB
+    chance: 5
+    minAmount: 1
+    maxAmount: 6
+
+  - type: item
+    material: END_CRYSTAL
+    chance: 2
+    minAmount: 1
+    maxAmount: 1
+
+  - type: item
+    material: OBSIDIAN
+    chance: 6
+    minAmount: 4
+    maxAmount: 16
+
+  - type: effect
+    effect: RESISTANCE
+    amplifier: 0        # Resistance I
+    duration: 1200
+    chance: 5
+
+  - type: item
+    material: PUFFERFISH_BUCKET
+    chance: 3
+    minAmount: 1
+    maxAmount: 1
+
+  - type: item
+    material: NETHERITE_CHESTPLATE
+    chance: 2
+    minAmount: 1
+    maxAmount: 1
+
+  - type: item
+    material: NETHERITE_LEGGINGS
+    chance: 2
+    minAmount: 1
+    maxAmount: 1
+
+  - type: item
+    material: IRON_INGOT
+    chance: 12
+    minAmount: 1
+    maxAmount: 8
+
+  
